@@ -74,7 +74,7 @@ def terminal():
     elif usr=="3":
         pass
     elif usr=="4":
-        data=open("data.json", "w")
+        data=open("CoolIntro/.assets/scripts/data.json", "w")
         data.write(json.dumps(ddat))
         data.close()
         print("data saved")
