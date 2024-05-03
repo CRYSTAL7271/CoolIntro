@@ -1,0 +1,6 @@
+echo "Starting Downloading Everything."
+echo "Making terminal command.."
+echo "starting python for this process"
+cd
+python CoolIntro/.assets/scripts/mk_command.py
+echo "Process Completed."
