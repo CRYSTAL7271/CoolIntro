@@ -83,7 +83,7 @@ def terminal():
         sys.exit(0)
     elif usr=="6":
         try:
-            os.remove("data.json")
+            os.remove("CoolIntro/.assets/scripts/data.json")
             print("Data removed.")
             terminal()
         except FileNotFoundError:
