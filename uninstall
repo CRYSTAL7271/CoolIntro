@@ -1,0 +1,8 @@
+echo "Uninstalling Command: if you want to remove CoolIntro dir, do cd first, and then rm -r CoolIntro"
+cd
+cd ..
+cd usr
+cd bin
+rm ci-terminal
+echo "Process Completed."
+
