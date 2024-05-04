@@ -25,3 +25,6 @@ chmod +x deactivate
 chmod +x install
 chmod +x uninstall
 ```
+```python
+print('hello')
+```
