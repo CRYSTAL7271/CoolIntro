@@ -20,7 +20,7 @@ def start():
         data=json.loads(f.read())
         f.close()
         if data["big_text_show"]==True:
-            os.system("termimage" + data["img_path"])
+            os.system("termimage " + data["img_path"])
             animated_text()
         else:
             animated_text()
