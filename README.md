@@ -1,5 +1,5 @@
 # Cool_Intro-for-termux
-Cool Intros for android temux, download is not really hard.
+Cool Intros for android termux, download is not really hard.
 # Progress
 install all packages that you need.
 ```
@@ -9,7 +9,7 @@ pip install tqdm
 pip install colorama
 pkg install git
 ```
-clone this reposutory in home.
+clone this repository in home.
 ```
 cd
 git clone https://github.com/CRYSTAL7271/CoolIntro
