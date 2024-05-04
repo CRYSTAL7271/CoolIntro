@@ -1,0 +1,5 @@
+echo "deactivating.."
+cd
+cd ../usr/etc
+echo "activing pyscript."
+python ../../home/CoolIntro/.assets/scripts/deactivate.py

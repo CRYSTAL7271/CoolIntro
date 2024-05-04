@@ -1,0 +1,7 @@
+echo "activing intro.."
+cd
+cd ..
+cd usr
+cd etc
+echo "activing pyscript"
+python ../../home/CoolIntro/.assets/scripts/active.py
