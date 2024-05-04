@@ -1,4 +1,35 @@
 # Cool_Intro-for-termux
 Cool Intros for android temux, download is not really hard.
 # Progress
-Warning: its not avaible for now its in working in progress.
+install all packages that you need.
+```
+
+pkg install python
+pkg install termimage
+pip install tqdm
+pip install colorama
+pkg install git
+
+```
+clone this reposutory in home.
+```
+
+cd
+git clone https://github.com/CRYSTAL7271/CoolIntro
+
+```
+change dir into CoolIntro.
+```
+
+cd CoolIntro
+
+```
+active all commands.
+```
+
+chmod +x active
+chmod +x deactivate
+chmod +x install
+chmod +x uninstall
+
+```
